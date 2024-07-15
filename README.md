@@ -46,6 +46,8 @@ Press `F12` or `right click > inspect element` to open up the dev tools. Select 
 
 The error inside the console should point us to our [CreateJoke.svelte](ui/src/jokes/jokes/CreateJoke.svelte) file
 
+</details>
+
 #### 6. navigate to `dnas/jokes/zomes/coordinator/jokes/src/joke.rs` and paste the following code at the top of the file, underneath the `use` statements
 
 ```rust
